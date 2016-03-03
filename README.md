@@ -10,3 +10,4 @@ Based off https://github.com/jbranchaud/til, a collection of concise write-ups o
 ### Laravel
 
 * [Pivot tables with additional attributes](laravel/pivot-tables-with-additional-attributes.md)
+* [Eloquent - Ordering by relation count](laravel/eloquent-ordering-by-relation-count.md)
